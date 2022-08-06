@@ -23,6 +23,22 @@
 
         "wallpapers" : [
             {
+                "title": "Little plant",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/21.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Ever green",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/20.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
                 "title": "Empty boy",
                 "category": "Cartoons",
                 "creator": "Stinglin",
