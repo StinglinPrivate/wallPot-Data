@@ -23,6 +23,14 @@
 
         "wallpapers" : [
             {
+                "title": "Simple home",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/22.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
                 "title": "Little plant",
                 "category": "Minimal",
                 "creator": "Stinglin",
@@ -35,7 +43,7 @@
                 "category": "Minimal",
                 "creator": "Stinglin",
                 "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/20.jpg",
-                "free": true,
+                "free": false,
                 "primary": "green"
             },
             {
@@ -43,7 +51,7 @@
                 "category": "Plain",
                 "creator": "Stinglin",
                 "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/1.jpg",
-                "free": false,
+                "free": true,
                 "primary": "green"
             },
             {
@@ -107,7 +115,7 @@
                 "category": "Moody",
                 "creator": "Stinglin",
                 "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/9.jpg",
-                "free": false,
+                "free": true,
                 "primary": "orange"
             },
             {
@@ -179,7 +187,7 @@
                 "category": "Illustration",
                 "creator": "Stinglin",
                 "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/18.jpg",
-                "free": false,
+                "free": true,
                 "primary": "white"
             }
         ]
