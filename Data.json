@@ -23,8 +23,16 @@
 
         "wallpapers" : [
             {
+                "title": "Scenary",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/25.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
                 "title": "Reason",
-                "category": "Quote",
+                "category": "Quotes",
                 "creator": "Stinglin",
                 "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/24.jpg",
                 "free": true,
@@ -32,7 +40,7 @@
             },
             {
                 "title": "Do it",
-                "category": "Quote",
+                "category": "Quotes",
                 "creator": "Stinglin",
                 "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/23.jpg",
                 "free": true,
