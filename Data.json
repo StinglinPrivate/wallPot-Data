@@ -23,6 +23,22 @@
 
         "wallpapers" : [
             {
+                "title": "Reason",
+                "category": "Quote",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/24.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
+                "title": "Do it",
+                "category": "Quote",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/23.jpg",
+                "free": true,
+                "primary": "black"
+            },
+            {
                 "title": "Simple home",
                 "category": "Minimal",
                 "creator": "Stinglin",
