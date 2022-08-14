@@ -23,6 +23,46 @@
 
         "wallpapers" : [
             {
+                "title": "Purple scenary",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/30.jpg",
+                "free": true,
+                "primary": "purple"
+            },
+            {
+                "title": "I love books",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/29.jpg",
+                "free": true,
+                "primary": "tint"
+            },
+            {
+                "title": "Pixel tree",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/28.jpg",
+                "free": false,
+                "primary": "green"
+            },
+            {
+                "title": "Pattern orange",
+                "category": "Abstracts",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/27.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Pattern Black",
+                "category": "Abstracts",
+                "creator": "Stinglin",
+                "url": "https://raw.githubusercontent.com/StinglinPrivate/wallPot-Data/main/26.jpg",
+                "free": true,
+                "primary": "black"
+            },
+            {
                 "title": "Scenary",
                 "category": "Illustration",
                 "creator": "Stinglin",
